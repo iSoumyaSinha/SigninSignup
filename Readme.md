@@ -1,9 +1,9 @@
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=AyeRaj" alt="Visitor badge"/>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=loginsignup" alt="Visitor badge"/>
     
 # Login Signup Page - Frontend Project
-# Hi, I'm Raj! 👋
+# Hi, I'm Soumya! 👋
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayerajkumar/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-raj-/)
 
 This Project is all about frontend website development
     
@@ -15,10 +15,10 @@ This Project is all about frontend website development
 
     You can clone it to your Github Account by executing the code below in your system terminal. (Ignore this step, If you have already downloaded)
 ```bash
-  git clone https://github.com/AyeRaj/Login_Signup_Template.git
+  https://github.com/iSoumyaSinha/SigninSignup.git
 ```
 
-💬 Ask me, If your project is not running - [Linkedin](https://www.linkedin.com/in/ayerajkumar)
+💬 Ask me, If your project is not running - [Linkedin](https://www.linkedin.com/in/soumya-raj-/)
 
 
 ## 🛠 Skills Required for this Project...
@@ -56,8 +56,4 @@ HTML & CSS only...
 ![App Screenshot](./Screenshots/Signup_Phone_11zon.png)
 -
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at ayerajkumar@gmail.com
 
